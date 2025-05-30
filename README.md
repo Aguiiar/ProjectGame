@@ -1,7 +1,7 @@
 # 🚀 GameVerse: Meu Projeto Robusto de Gerenciamento CRUD e Busca de Jogos em **C#** com **ASP.NET Web Forms**
 
-🎮 Estou **incrivelmente orgulhoso** de apresentar o **GameVerse**, um aplicativo web completo que desenvolvi para **revolucionar** a forma como interagimos com o universo dos videogames!  
-Esta plataforma é uma **demonstração prática** das minhas habilidades em **programação C#** e **desenvolvimento web**, combinando uma **interface moderna** com funcionalidades **poderosas** e **eficientes**.
+🎮 Estou **incrivelmente orgulhoso** de apresentar o **GameVerse**, um sistema completo que desenvolvi!  
+Este sistema é uma **demonstração prática** das minhas habilidades em **programação C#** e **desenvolvimento web**, combinando uma **interface moderna** com funcionalidades **poderosas** e **eficientes**.
 
 ---
 
