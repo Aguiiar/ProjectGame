@@ -40,7 +40,7 @@ Este projeto foi construído com uma base **sólida e moderna**, focando em **de
 
 ---
 
-## 🧩 Métodos e Arquitetura Chave
+## 🧩 Métodos
 
 A robustez do **GameVerse** se dá através da aplicação de métodos e padrões **eficazes**:
 
