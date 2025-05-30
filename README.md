@@ -62,32 +62,4 @@ Estou muito feliz com o resultado e aberto a sugestões para evoluir ainda mais 
 
 ## 🖼️ Galeria de Imagens
 
-| Página 1 | Página 2 | Página 3 |
-|---|---|---|
-| ![](./imagens/pagina-1.png) | ![](./imagens/pagina-2.png) | ![](./imagens/pagina-3.png) |
-
-| Página 4 | Página 5 | Página 6 |
-|---|---|---|
-| ![](./imagens/pagina-4.png) | ![](./imagens/pagina-5.png) | ![](./imagens/pagina-6.png) |
-
-| Página 7 | Página 8 | Página 9 |
-|---|---|---|
-| ![](./imagens/pagina-7.png) | ![](./imagens/pagina-8.png) | ![](./imagens/pagina-9.png) |
-
-| Página 10 | Página 11 | Página 12 |
-|---|---|---|
-| ![](./imagens/pagina-10.png) | ![](./imagens/pagina-11.png) | ![](./imagens/pagina-12.png) |
-
-| Página 13 | Página 14 | Página 15 |
-|---|---|---|
-| ![](./imagens/pagina-13.png) | ![](./imagens/pagina-14.png) | ![](./imagens/pagina-15.png) |
-
-| Página 16 | Página 17 | Página 18 |
-|---|---|---|
-| ![](./imagens/pagina-16.png) | ![](./imagens/pagina-17.png) | ![](./imagens/pagina-18.png) |
-
-| Página 19 |  |  |
-|---|---|---|
-| ![](./imagens/pagina-19.png) |  |  |
-
-
+![](./imagens/pagina-1.png) ![](./imagens/pagina-2.png) ![](./imagens/pagina-3.png) ![](./imagens/pagina-4.png) ![](./imagens/pagina-5.png) ![](./imagens/pagina-6.png) ![](./imagens/pagina-7.png) ![](./imagens/pagina-8.png) ![](./imagens/pagina-9.png) ![](./imagens/pagina-10.png) ![](./imagens/pagina-11.png) ![](./imagens/pagina-12.png) ![](./imagens/pagina-13.png) ![](./imagens/pagina-14.png) ![](./imagens/pagina-15.png) ![](./imagens/pagina-16.png) ![](./imagens/pagina-17.png) ![](./imagens/pagina-18.png) ![](./imagens/pagina-19.png)
